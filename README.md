@@ -26,18 +26,6 @@ A developer focused on creating quality applications and exploring new technolog
         </a>
       </td>
     </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/Y3ppi3/secure_app">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Y3ppi3&repo=secure_app&theme=tokyonight&hide_border=true" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/Y3ppi3/ais">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Y3ppi3&repo=ais&theme=tokyonight&hide_border=true" width="100%" />
-        </a>
-      </td>
-    </tr>
   </table>
 </div>
 
