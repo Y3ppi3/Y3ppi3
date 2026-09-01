@@ -3,31 +3,6 @@
 ## 🚀 About Me
 A developer focused on creating quality applications and exploring new technologies.
 
-## 📊 My Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Y3ppi3&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Y3ppi3's%20GitHub%20Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y3ppi3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="180" />
-</p>
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/Y3ppi3/mathlingo">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Y3ppi3&repo=mathlingo&theme=tokyonight&hide_border=true" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/Y3ppi3/booking-site-generator">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Y3ppi3&repo=booking-site-generator&theme=tokyonight&hide_border=true" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ## 🛠️ Tech Stack
 
@@ -57,11 +32,6 @@ A developer focused on creating quality applications and exploring new technolog
 
 </div>
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Y3ppi3&theme=tokyo-night&hide_border=true" />
-</p>
 
 ## 🔗 Connect with me
 
